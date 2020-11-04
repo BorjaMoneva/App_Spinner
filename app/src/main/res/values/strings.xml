@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">App_Spinner</string>
+    <string name="tv_Pregunta">¿De que color quieres el fondo?</string>
+    <string-array name="colores_array">
+        <item>verde</item>
+        <item>negro</item>
+        <item>rojo</item>
+        <item>azul</item>
+        <item>amarillo</item>
+        <item>naranja</item>
+        <item>marron</item>
+        <item>rosa</item>
+        <item>blanco</item>
+    </string-array>
+
+</resources>
